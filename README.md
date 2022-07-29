@@ -1,10 +1,10 @@
-#Sobre mim
+# Sobre mim
 
-##Editando o perfil
+## Editando o perfil
 
-###Olá
+### Olá
 
-- 👋 Olá, meu user é @giovanarcastilho
+- 👋 Meu user é @giovanarcastilho
 - 👀 Professora de Matemática
 - 🌱 Atualmente, dou aula de Pensamento Computacional no CAP-UEM
 
